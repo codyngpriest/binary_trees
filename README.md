@@ -68,4 +68,7 @@ This is a function that goes through a binary tree using level-order traversal
 21. Is complete
 This is a function that checks if a binary tree is complete
 
+22. Rotate left
+This is a function that performs a left-rotation on a binary tree
+
 
