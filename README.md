@@ -56,4 +56,7 @@ This is a function that checks if a binary tree is perfect
 17. Sibling
 This is a function that finds the sibling of a node
 
+18. Uncle
+This is a function that finds the uncle of a node
+
 
