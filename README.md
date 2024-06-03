@@ -71,4 +71,7 @@ This is a function that checks if a binary tree is complete
 22. Rotate left
 This is a function that performs a left-rotation on a binary tree
 
+23. Rotate right
+This is a function that performs a right-rotation on a binary tree
+
 
