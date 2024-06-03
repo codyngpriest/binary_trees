@@ -89,4 +89,7 @@ This is a function that searches for a value in a Binary Search Tree
 28. BST - Remove
 This is a function that removes a node from a Binary Search Tree
 
+29. Big O #BST
+What are the average time complexities of those operations on a Binary Search Tree (one answer per line):
+
 
