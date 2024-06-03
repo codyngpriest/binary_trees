@@ -50,4 +50,7 @@ This is a function that measures the balance factor of a binary tree
 15. Is full
 This is a function that checks if a binary tree is full
 
+16. Is perfect
+This is a function that checks if a binary tree is perfect
+
 
