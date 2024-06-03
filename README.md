@@ -25,3 +25,6 @@ This is a function that goes through a binary tree using pre-order traversal
 
 7. In-order traversal
 This is a function that goes through a binary tree using in-order traversal
+
+8. Post-order traversal
+This is a function that goes through a binary tree using post-order traversal
