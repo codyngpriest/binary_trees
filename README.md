@@ -86,4 +86,7 @@ This is a function that builds a Binary Search Tree from an array
 27. BST - Search
 This is a function that searches for a value in a Binary Search Tree
 
+28. BST - Remove
+This is a function that removes a node from a Binary Search Tree
+
 
