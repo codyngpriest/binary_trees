@@ -34,3 +34,9 @@ This is a function that measures the height of a binary tree
 
 10. Depth
 This is a function that measures the depth of a node in a binary tree
+
+11. Size
+This is a function that measures the size of a binary tree
+
+
+
