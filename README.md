@@ -53,4 +53,7 @@ This is a function that checks if a binary tree is full
 16. Is perfect
 This is a function that checks if a binary tree is perfect
 
+17. Sibling
+This is a function that finds the sibling of a node
+
 
