@@ -62,4 +62,7 @@ This is a function that finds the uncle of a node
 19. Lowest common ancestor
 This is a function that finds the lowest common ancestor of two nodes
 
+20. Level-order traversal
+This is a function that goes through a binary tree using level-order traversal
+
 
