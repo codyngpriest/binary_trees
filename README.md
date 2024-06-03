@@ -47,4 +47,7 @@ This is a function that counts the nodes with at least 1 child in a binary tree
 14. Balance factor
 This is a function that measures the balance factor of a binary tree
 
+15. Is full
+This is a function that checks if a binary tree is full
+
 
