@@ -104,3 +104,9 @@ This is a function that builds an AVL tree from an array
 33. AVL - Remove
 This is a function that removes a node from an AVL tree
 
+34. AVL - From sorted array
+This is a function that builds an AVL tree from an array
+
+35. Big O #AVL Tree
+What are the average time complexities of those operations on an AVL Tree (one answer per line):
+
