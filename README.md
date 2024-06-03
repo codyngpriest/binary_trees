@@ -22,3 +22,6 @@ This is a function that checks if a given node is a root
 
 6. Pre-order traversal
 This is a function that goes through a binary tree using pre-order traversal
+
+7. In-order traversal
+This is a function that goes through a binary tree using in-order traversal
