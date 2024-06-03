@@ -80,4 +80,7 @@ This is a function that checks if a binary tree is a valid Binary Search Tree
 25. BST - Insert
 This is a function that inserts a value in a Binary Search Tree
 
+26. BST - Array to BST
+This is a function that builds a Binary Search Tree from an array
+
 
