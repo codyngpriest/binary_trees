@@ -65,4 +65,7 @@ This is a function that finds the lowest common ancestor of two nodes
 20. Level-order traversal
 This is a function that goes through a binary tree using level-order traversal
 
+21. Is complete
+This is a function that checks if a binary tree is complete
+
 
