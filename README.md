@@ -31,3 +31,6 @@ This is a function that goes through a binary tree using post-order traversal
 
 9. Height
 This is a function that measures the height of a binary tree
+
+10. Depth
+This is a function that measures the depth of a node in a binary tree
