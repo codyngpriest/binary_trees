@@ -98,4 +98,7 @@ This is a function that checks if a binary tree is a valid AVL Tree
 31. AVL - Insert
 This is a function that inserts a value in an AVL Tree
 
+32. AVL - Array to AVL
+This is a function that builds an AVL tree from an array
+
 
