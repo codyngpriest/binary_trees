@@ -83,4 +83,7 @@ This is a function that inserts a value in a Binary Search Tree
 26. BST - Array to BST
 This is a function that builds a Binary Search Tree from an array
 
+27. BST - Search
+This is a function that searches for a value in a Binary Search Tree
+
 
