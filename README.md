@@ -41,3 +41,7 @@ This is a function that measures the size of a binary tree
 12. Leaves
 This is a function that counts the leaves in a binary tree
 
+13. Nodes
+This is a function that counts the nodes with at least 1 child in a binary tree
+
+
