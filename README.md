@@ -101,4 +101,6 @@ This is a function that inserts a value in an AVL Tree
 32. AVL - Array to AVL
 This is a function that builds an AVL tree from an array
 
+33. AVL - Remove
+This is a function that removes a node from an AVL tree
 
