@@ -59,4 +59,7 @@ This is a function that finds the sibling of a node
 18. Uncle
 This is a function that finds the uncle of a node
 
+19. Lowest common ancestor
+This is a function that finds the lowest common ancestor of two nodes
+
 
