@@ -92,4 +92,7 @@ This is a function that removes a node from a Binary Search Tree
 29. Big O #BST
 What are the average time complexities of those operations on a Binary Search Tree (one answer per line):
 
+30. Is AVL
+This is a function that checks if a binary tree is a valid AVL Tree
+
 
