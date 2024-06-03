@@ -74,4 +74,7 @@ This is a function that performs a left-rotation on a binary tree
 23. Rotate right
 This is a function that performs a right-rotation on a binary tree
 
+24. Is BST
+This is a function that checks if a binary tree is a valid Binary Search Tree
+
 
