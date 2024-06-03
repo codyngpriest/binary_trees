@@ -95,4 +95,7 @@ What are the average time complexities of those operations on a Binary Search Tr
 30. Is AVL
 This is a function that checks if a binary tree is a valid AVL Tree
 
+31. AVL - Insert
+This is a function that inserts a value in an AVL Tree
+
 
