@@ -110,3 +110,12 @@ This is a function that builds an AVL tree from an array
 35. Big O #AVL Tree
 What are the average time complexities of those operations on an AVL Tree (one answer per line):
 
+36. Is Binary heap
+This is a function that checks if a binary tree is a valid Max Binary Heap
+
+37. Heap - Insert
+This is a function that inserts a value in Max Binary Heap
+
+41. Big O #Binary Heap
+What are the average time complexities of those operations on a Binary Heap (one answer per line):
+
